@@ -1,0 +1,22 @@
+{
+  "name": "crocone/yii2-odnoklassniki-authclient",
+  "description": "Odnoklassniki extenion for using via yii2-authclient",
+  "keywords": ["yii2", "authclient", "oauth", "odnoklassniki"],
+  "homepage": "https://github.com/CrocOne/authclient-odnoklassniki",
+  "require": {
+    "yiisoft/yii2-authclient": "~2.0@dev"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Evgeny Shevtsov",
+      "email": "shevtsov@croc.one"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "crocone\\authclient\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
