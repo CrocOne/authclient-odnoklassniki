@@ -1,5 +1,5 @@
 {
-  "name": "crocone/yii2-odnoklassniki-authclient",
+  "name": "crocone/authclient-odnoklassniki",
   "description": "Odnoklassniki extenion for using via yii2-authclient",
   "keywords": ["yii2", "authclient", "oauth", "odnoklassniki"],
   "homepage": "https://github.com/CrocOne/authclient-odnoklassniki",
